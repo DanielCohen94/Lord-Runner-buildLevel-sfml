@@ -4,10 +4,10 @@
 <table align="center">
    <tr>
     <td>
-      <img src="./examples/editLevel.png" alt="editLevel.png" width="343"/>
+      <img src="./examples/editLevel.png" alt="editLevel.png" width="343" height="514"/>
     </td>
 	<td>
-      <img src="./examples/editLevel.gif" alt="editLevel.gif" width="900" height="514"/>
+      <img src="./examples/editLevel.gif" alt="editLevel.gif" width="600" height="514"/>
     </td>
   </tr>
 </table>
